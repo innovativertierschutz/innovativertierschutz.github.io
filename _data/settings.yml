@@ -1,0 +1,27 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: 'UA-112060364-2'
+
+menu:
+- {name: 'Küche', folder: 'pages', file: 'kueche.html'}
+- {name: 'Badezimmer', folder: 'pages', file: 'badezimmer.html'}
+- {name: 'Haushalt', folder: 'pages', file: 'haushalt.html'}
+- {name: 'Garten', folder: 'pages', file: 'garten.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
+
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy...'
+
+post_date_prefix: 'Written on'
