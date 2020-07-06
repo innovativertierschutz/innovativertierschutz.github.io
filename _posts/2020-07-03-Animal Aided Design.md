@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Animal Aided Design"
+author: "Vera Goesmann"
+categories: design
+tags: [design, animal aided]
+---
+
 # Animal Aided Design
 
 *Animal Aided Design!* Dieser Begriff wird immer wieder im Zusammenhang mit Haus - und Stadtbauprojekten genannt. Aber was ist dieses "Animal Aided Design" überhaupt? Und was hat dieser Begriff mit Innovativen Tierschutz zu tun? 
