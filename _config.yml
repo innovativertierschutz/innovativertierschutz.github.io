@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Tierschutz Beginnt Zuhause"
-description:	       ""
-author:              "InnoTier WS19/20"
+title:		           "Innovativer Tierschutz"
+description:	       "Innovativer Tierschutz ist eine Projektwerkstadt der TU Berlin"
+author:              "Studierende der TU Berlin"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
