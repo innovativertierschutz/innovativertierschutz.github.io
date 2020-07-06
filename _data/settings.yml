@@ -7,6 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'Sommersemester 2020', folder: 'pages', file: 'ss2020.html'}
 - {name: 'Küche', folder: 'pages', file: 'kueche.html'}
 - {name: 'Badezimmer', folder: 'pages', file: 'badezimmer.html'}
 - {name: 'Haushalt', folder: 'pages', file: 'haushalt.html'}
