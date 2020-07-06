@@ -4,9 +4,9 @@ title: "Animal Aided Design"
 author: "Vera Goesmann"
 categories: ss20
 tags: [design, animal aided]
+image: Animal-Aided-Design-2.png
 ---
 
-# Animal Aided Design
 
 *Animal Aided Design!* Dieser Begriff wird immer wieder im Zusammenhang mit Haus - und Stadtbauprojekten genannt. Aber was ist dieses "Animal Aided Design" überhaupt? Und was hat dieser Begriff mit Innovativen Tierschutz zu tun? 
 
