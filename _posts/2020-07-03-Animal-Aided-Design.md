@@ -22,8 +22,8 @@ Hinter dem Begriff *Animal Aided Design (AAD)* steckt eine Design- und Planungsm
 Das Konzept von *Animal Aided Design* wurde von einem interdisziplinären Forschungsteam entwickelt und geleitet von den Wissenschaftler Thomas E. Hauck (Fachgebiet Freiraumplanung an der Universität Kassel) und Wolfgang W.Weisser (Lehrstuhl für Terrestrische Ökologie an der Technischen Universität München). 
 Das gesamte Konzept mit Beispielen wurde im Rahmen der Forschung in einer Broschüre, welche ihr unter dem folgenden Link finden könnt, von der Universität Kassel und der Technischen Universität München, zusammengefasst. 
 
-![N|Solid](https://naturvielfaltbauen.org/wp-content/uploads/2018/05/Animal-Aided-Design-2.png)
 
+<img src="https://naturvielfaltbauen.org/wp-content/uploads/2018/05/Animal-Aided-Design-2.png" />
 ### Die Methodik 
 
 Die Entwurfsmethodik und ihre einzelnen Phasen sind sehr ähnlich wie die Phasen eines Bauprojektes. Nur das hier nicht direkt der Mensch an vorderster Stelle steht, sondern die Tiere. Ganz zu Anfang der Entwurfsplanung befinden wir uns in der *Analyse- und Konzeptphase*. Zuerst wird das Habitatpotential des Planungsgebietes für die Besiedlung von unterschiedlichen Tierarten bestimmt. Hiernach können die Zielarten, welche integriert werden sollen definiert werden. Hier ist wichtig sich Fragen wie 
@@ -38,7 +38,7 @@ zu stellen.
 Nachdem die Zielarten definiert wurden müssen nun die Ansprüche der gewünschten Arten zusammengetragen werden. Jeder Lebensraum einer Tierart zeichnet sich durch bestimmte kritische Faktoren aus. Diese Faktoren leiten sich aus dem Lebenszyklus von de Art ab. Dadurch entsteht für jede Tierart ein *Habitat*, welches alle Ansprüche über den gesamten Lebenszyklus beinhaltet. Dies beinhaltet das Nahrungsangebot, die Jagdgebiete, die Nist- und Aufzuchtsquartiere, wie auch die Ansprüche an die Wintermonate. 
 Nachdem die *Habitate* der Tiere definiert wurden, wird nun das Konzept des Projektes definiert. Hier werden die Rahmenbedingungen festgelegt und die menschlichen und tierischen Bedürfnisse vereint. 
 
-![N|Solid](https://www.toek.wzw.tum.de/fileadmin/_processed_/f/6/csm_Bild1_08_1d14c6c4fa.jpg)
+<img src="https://www.toek.wzw.tum.de/fileadmin/_processed_/f/6/csm_Bild1_08_1d14c6c4fa.jpg" />
 *Betrachtung des gesamten Lebenszyklus der Tierarten* 
 
 
@@ -52,7 +52,7 @@ Bei der letzten Phase befinden wir uns in der Phase des *Monitoring*. Nach Volle
 
 Die Einsatzgebiete von *Animal Aided Design* reichen von kleinen, in das Gebäude integrierten, Bausteinen bis hin zur Planung von großräumigen Projekten wie ganzen Stadtquartieren und Parkanlagen. Darüber hinaus wird *Animal Aided Design* oft bei der Modernisierung wie auch der Gebäudesanierung eingesetzt. Jedoch tritt die Methodik von *Animal Aided Design* schon bei dem Gestalten von tierfreundlichen Innenhöfen ein.
 
-![N|Solid](https://lh3.googleusercontent.com/proxy/dUX_2ncR4wnGF-arG-QirZQXpkIp2IfXX2yUqwAeSTkmOl0scFLmxwI4Eymdz-AMyAaBf9g5ufhZGVXQmkCZpHSRLR6qYwbWc0rJPaMN7aFeokhQPYnpZwrXNzdYo3F_d9S7zuyT53rwH2Z8Ylb-pI-D6s5zvcDC3V_yf6R0eMdq0Q)
+<img src="https://lh3.googleusercontent.com/proxy/dUX_2ncR4wnGF-arG-QirZQXpkIp2IfXX2yUqwAeSTkmOl0scFLmxwI4Eymdz-AMyAaBf9g5ufhZGVXQmkCZpHSRLR6qYwbWc0rJPaMN7aFeokhQPYnpZwrXNzdYo3F_d9S7zuyT53rwH2Z8Ylb-pI-D6s5zvcDC3V_yf6R0eMdq0Q" />
 *Entwurfsbausteine von bgmr Architekten zur Methodik von Animal Aided Design* 
 
 Durch die Vielfältigkeit der Einsatzgebiete wird schnell klar, dass es sehr leicht ist, dieses Konzept schon im kleinen Rahmen umzusetzen. Du musst kein ganzes tierfreundliches Haus bauen, um einen Beitrag für die tierischen Stadtbewohner zu leisten. Es reicht schon, wenn du deinen Balkon oder Garten mit kleinen Maßnahmen, wie bestimmten Pflanzen, einem kleinen Wassertrog oder Bruthäuschen aufrüstest. Ein kleiner Beitrag ist schon damit gemacht, mehr Wildblumen anzupflanzen und nicht immer alles akkurat im Garten zu beschneiden. Tiere und Natur sind nicht perfekt designt. Und kleine ungepflegte sandige Ecken sind für uns vielleicht ein Dorn im Auge, jeder kleine Vogel wird es dir aber danken, wenn er dort sein Gefieder putzen kann.
@@ -68,11 +68,11 @@ Geeinigt wurde sich auf die drei Tierarten Rotkehlchen, Nachtigall und Fledermau
 
 ### Das Rotkehlchen 
 
-![N|Solid](https://www.nabu.de/imperia/md/nabu/images/arten/tiere/voegel/schnaepperverwandte/rotkehlchen/150723-nabu-rotkehlchen-gaby-schroeder3.jpeg)
+<img src="https://www.nabu.de/imperia/md/nabu/images/arten/tiere/voegel/schnaepperverwandte/rotkehlchen/150723-nabu-rotkehlchen-gaby-schroeder3.jpeg" />
 
 Auch hier wurde zuallererst ein Portrait der Vogelart erstellt. Aus diesem lassen sich die kritischen Standortfaktoren der Art ableiten. Das Rotkehlchen gilt als Bodenbrüter. Ihre Nester bauen sie meist in Erdlöchern und Mulden, unter Grasbüscheln, zwischen Wurzeln und unter Reisig. Sowie nisten sie auch in Bodennähe z.B. in Baumhöhlen oder Mauernischen. Zum Nestbau nutzen sie oft ungewöhnliche Materialien wie z.B. diverse Gartenutensilien. Ab April werden 4 bis 7 Eier gelegt und für 14 Tage ausgebrütet. Die Jungen können nach ca. 14 Tagen ihre ersten Flüge tätigen. Die Jungvögel werden vor allem mit Insekten und später mit Raupen und Larven gefüttert. Ausgeflogene Jungvögel halten sich meist in Bodennähe auf. Adulte Rotkehlchen benötigen dichtes buschwerk als Ruhe- und Schlafstätte. Die Vogelart badet sehr gerne in flachen Wasserstellen. Die Hauptnahrung der adulten Vögel bilden am und im Boden lebende Wirbellose. Sie sind auf laubstreureiche Böden angewiesen. So sind die im Winter oft an künstlichen Futterstellen oder in Nähe von Komposthaufen oder Unterholz anzutreffen. Das Rotkehlchen überwintert zum größten Teil in Deutschland. Es ist auf schnee- und frostfreie Böden angewiesen. Im Spätsommers fangen die Tiere an durch gesang ihr Revier für den Winter zu verteidigen. 
 
-![N|Solid](https://www.galk.de/images/djmediatools/50-animal-aided-design-1/abb_12.jpg)
+<img src="https://www.galk.de/images/djmediatools/50-animal-aided-design-1/abb_12.jpg" />
 *Maßnahmen zur Integration des Rotkehlchens*
 
 In dem Berliner Entwurf wurden gut einsehbare Flachwasserstellen mit guten Fluchtmöglichkeiten eingerichtet. Es wurden buschartige Gewächse, oft mit Dornen,  angebaut, welche als Schutzgehölz für die am Boden hüpfenden Vögel dienen. Diese tragen zum größten teil Beeren, welche als Nahrungsergänzung genutzt werden. Zwischen Zaunskulpturen und dem bedornten Dickicht können die Vögel Nistmöglichkeiten finden. Besonders im Sommer finden die Vögel in den angelegten Feuchtbereichen genug Wirbellose wie z.B. Regenwürmer als Nahrung. Im Winter können die Vögel auf die Bereiche unter den dichten, immergrünen Strauchschicht als Nahrungslager zurückgreifen. 
