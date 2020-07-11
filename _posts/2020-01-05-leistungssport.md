@@ -2,7 +2,7 @@
 layout: post
 title: "Vegane Ernährung und Leistungssport"
 author: "Magdalena"
-categories: kueche
+categories: ws19
 tags: [vegan, essen, sport]
 image: person-holding-barbell-841130.jpg
 ---

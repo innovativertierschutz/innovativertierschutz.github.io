@@ -2,7 +2,7 @@
 layout: post
 title: "Zero Waste"
 author: "Julia"
-categories: badezimmer
+categories: ws19
 tags: [Naturkosmetik, DIY, Handcreme, PETA, CodeCheck]
 image: IMG-20200120-WA0009.jpg
 ---
