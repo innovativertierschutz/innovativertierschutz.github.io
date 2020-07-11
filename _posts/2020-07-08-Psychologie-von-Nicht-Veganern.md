@@ -1,5 +1,11 @@
-# Die Psychologie von Nicht-Veganern
-Written on July 8th , 2020 by Maria Schmidt
+---
+layout: post
+title: Die Psychologie von Nicht-Veganern
+author: "Maria Schmidt"
+categories: ss20
+tags: [psychologie, vegan, nichtveganer]
+image: nichtveg.wepb
+---
 
 ![Aufregung](https://szm-media.sueddeutsche.de/image/szm/c02a1ea6e8f121700cca844e31ecfdfa/970/image.jpeg?h=e5ce0b6b6e08c05e43d98d4afbd47a3b&hv=1)
 
