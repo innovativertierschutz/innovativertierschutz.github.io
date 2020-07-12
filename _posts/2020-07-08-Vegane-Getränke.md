@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: post_only_banner
 title: "Vegane Getränke"
 author: "Lisa Kühnast"
 categories: ss20
 tags: [getränke, vegan]
-image: csm_Wein_und_Bier_fotolia_online_38805fbbff.jpg
+image: csm_Wein_und_Bier_fotolia_online.jpg
 ---
 
 **"Für mich bitte nur ein Wasser."**
