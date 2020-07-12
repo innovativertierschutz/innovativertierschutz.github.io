@@ -79,7 +79,7 @@ Ohne den Erhalt der Korallenriffe, werden nämlich auch bald unsere
 Urlaubsparadiese nicht mehr so paradiesisch sein. Und das möchte
 ja nun wirklich Keiner.
 
-<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/collage_Sonnenschutz.jpeg" />
+<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/collage_Sonnenschutz.jpeg"/>
 
 Quellen:
 NOAA (National Oceanic and Atmospheric Administration) (Hrsg.)

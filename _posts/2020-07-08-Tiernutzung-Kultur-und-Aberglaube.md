@@ -1,16 +1,17 @@
 ---
-layout: post
+layout: post_only_banner
 title: "Tiernutzung, Kultur und Aberglaube als Hindernisse für den Tierschutz"
 author: "Lina Wakesho Tolle"
 categories: "ss20"
-image: samburu
+tags: [kultur, aberglaube, tiernutzung]
+image: samburu.jpg
 ---
 
 Tierschutz beinhaltet alle Aktivitäten des Menschen, die darauf abzielen, Tieren ein artgerechtes Leben ohne Zufügung von unnötigen Leiden, Schmerzen und Schäden zu ermöglichen. In sehr vielen Länder auf der ganzen Welt ist Tierschutz ein wichtiges Thema, das behandelt werden soll. Viele Tiere werden weltweit als Versuchstiere in der medizinischen Forschung eingesetzt, für Ernährung gezüchtet danach geschlachtet/ermordet, als Pelztiere eingesetzt, als Arbeitswerkzeug, und als Unterhaltung in Zoos, Zirkussen und Dressur verwendet. Ein Beispiel ist die Nutzung als Arbeitswerkzeug, viele Tiere sind zu körperlicher Arbeit gezwungen. Sie werden als Transportmittel, zum Ziehen von Pflügen, zum Transport von Gütern und zum Antreiben von Mühlen verwendet, dabei werden sie mit Peitschen geschlagen oder mit anderen Gegenständen gezwungen, um sie zur Arbeit oder zum Laufen zu bringen. Andere werden als Polizeihunde oder Blindenhunde benutzt. Der Tierschutz steht oftmals mit diesen diversen Interessen der Tiernutzung im Widerspruch.
 
 Aber die oben genannten Tiernutzungen beschreiben nicht alle Hindernisse für der Tierschutz. Dazu gehören Kultur und Aberglaube, in anderen Kulturen, Zeremonien wie Ehen, Ritualen und Beerdigungen. Tiere werden auf unterschiedliche Weise eingesetzt. Während einer Beerdigung zum Beispiel werden Kühe, Schafe oder Ziegen geschlachtet oder als Opfer getötet. Es wird angenommen, dass dadurch Unglück verhindert werde oder der Tod verlangsamt werden könne, die Familie der verstorbenen Person gereinigt werden könne und auch die Seele der/des Verstobenen zu den Ahnen zurückkehre. Damit könne die geistige Harmonie erreicht werden. Für den Fall, dass die/der Verstobene ein Oberhaupt in der Gemeinde ist, wird der Sarg im Allgemeinen mit einem Leopardenfell oder in Fall einer/eines Königin/Königs mit Löwenfell bedeckt.
 
-<img src= "https://pixabay.com/de/photos/samburu-zeremonie-kenia-afrika-4448045/">
+<img src= "https://cdn.pixabay.com/photo/2019/09/02/20/16/samburu-4448045_960_720.jpg">
 *Samburu traditional ceremony in Kenya*
 
 ### Hexerei und Voodoo
@@ -20,7 +21,7 @@ Zusätzlich ist ebenfalls in diese Kategorie auch Hexerei und Voodoo. Dafür wer
 Es gibt auch den mit einigen Tiere verbundenen Aberglauben, dass es auch erschwert, Tiere überhaupt in Tierheimen adoptieren zu können. Es gibt dazu eine Vielzahl von tierischem Aberglauben. Andere sind positiv, die das Retten und Tierschutz generell begünstigen, während manchmal beim gleichen Tier, negativer Aberglaube vorhanden ist, die das Tier in schlechterem Licht darstellt und dadurch hindert, dass Menschen, die sich an diesem Aberglauben halten, adoptieren oder Tiere in ein Tierheim bringen.
 
 
-<img src= "https://pixabay.com/de/photos/katze-silhouette-katzen-silhouette-694730/">
+<img src= "https://cdn.pixabay.com/photo/2015/03/27/13/16/cat-694730_960_720.jpg">
 *Eine Schwarze Katze*
 
 ### Aberglaube nach Tier
