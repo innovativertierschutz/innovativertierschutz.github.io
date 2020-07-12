@@ -42,7 +42,7 @@ Die symbiotischen Algen stellen circa 90% der Nahrung einer
 gesunden Korallen zur Verfügung, weswegen die Koralle bei einer
 anhaltenden Bleiche verhungert.
 
-<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/chasing-coral.jpeg" /> 
+<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/chasing-coral.jpeg" /> 
 Korallenriffe stellen den Lebensraum für circa 25% aller
 Meeresbewohner dar (NOAA, 2019). Durch den Verlust von
 
@@ -79,7 +79,7 @@ Ohne den Erhalt der Korallenriffe, werden nämlich auch bald unsere
 Urlaubsparadiese nicht mehr so paradiesisch sein. Und das möchte
 ja nun wirklich Keiner.
 
-<img src="https://raw.githubusercontent.com/innotier/TierschutzBeginntZuhause/gh-pages/assets/img/collage_Sonnenschutz.jpeg" />
+<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/collage_Sonnenschutz.jpeg" />
 
 Quellen:
 NOAA (National Oceanic and Atmospheric Administration) (Hrsg.)

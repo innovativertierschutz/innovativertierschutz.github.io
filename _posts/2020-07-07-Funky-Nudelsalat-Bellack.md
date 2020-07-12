@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_only_banner
 title: "Funky Nudelsalat"
 author: "Johanna Bellack"
 categories: ss20
@@ -14,7 +14,7 @@ Tatsächlich ging bei uns zu Hause früher der Trend zu drei Mal täglich Fleisc
 Konsequenterweise würde ich mich im nächsten Schritt auch von der vegetarischen Lebensweise verabschieden und den Veganismus begrüßen. Der alte gelöste interne Konflikt ist einem Neuen gewichen. Ist der Konsum von tierischen Produkten generell ausbeuterisch? Schaut man sich bspw. die konventionelle Milchviehwirtschaft oder Legebatterien an, dann ist die Antwort ganz klar: "Ja!". Diesen Knoten versuche ich derzeit zu lösen. Ich bin nicht in Gänze davon überzeugt, dass das Nutzen tierischer Ressourcen unter allen Umständen ausbeuterisch sein muss. Man könnte es auch als Tauschgeschäft sehen: Liebe Henne, ich biete dir Kost und Logis, dafür schenkst du mir täglich ein Ei. Trotzdem merke ich, wie ich innerlich mit mir selbst streite. Vielleicht geht es euch ja auch so! Fakt ist, dass ich bisher für jedes tierische Produkt ein adäquates Substitut gefunden habe, wenn ich etwas Bestimmtes kochen wollte. Mithin käme mir der Schritt hin zu veganen Lebensweise zumindest nicht mehr wie ein Verzicht vor. Vor diesem Hintergrund möchte ich euch eines meiner Lieblingsrezepte nicht vorenthalten. Ob Grillparty, Picknick oder Mitbringsel - mein Funky Nudelsalat kann entweder vegetarisch oder vegan zubereitet werden und ist sowohl warm, als auch kalt der Bringer. Viel Spaß beim Nachkochen!
 
 <img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Banner_Bellack.jpg" />
-<a href="https://de.freepik.com/fotos-vektoren-kostenlos/lebensmittel">Lebensmittel Foto erstellt von freepik - de.freepik.com</a></div>
+<a href="https://de.freepik.com/fotos-vektoren-kostenlos/lebensmittel">Lebensmittel Foto erstellt von freepik - de.freepik.com</a>
 <br>
 **Zutaten (3-4 Personen):**
 * 250 g Schmetterlingsnudeln
