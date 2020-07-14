@@ -41,6 +41,6 @@ Konsequenterweise würde ich mich im nächsten Schritt auch von der vegetarische
 4. Die Oliven in Scheiben und die getrockneten Tomaten in grobe Stücke schneiden.
 5. Nudeln, Tomatensud, Pesto Rosso, Tofu-Würfel, Oliven und getrocknete Tomaten vermischen. Den veganen Feta, bzw. Hirtenkäse mit den Fingern zerbröseln und mit dem Rucola, sowie wahlweise den Sonnenblumenkernen unterheben. Bei Bedarf noch etwas Öl aus dem Glas getrockneter Tomaten hinzufügen.<br>
 
-<div align=center><b>Fertig – njamnjam!</b></div>
+<b>Fertig – njamnjam!</b>
 <br>
-<div align=right>Johanna L. Bellack</div>
+align=right>Johanna L. Bellack
