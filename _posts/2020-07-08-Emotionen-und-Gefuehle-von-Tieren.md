@@ -4,10 +4,8 @@ title: "Mitfühlende Schweine und altruistische Fledermäuse - ein Einblick in d
 author: "Elias Müller"
 categories: ss20
 tags: [emotionen, gefühle, tiere]
-image: <img src="https://data.whicdn.com/images/171627779/original.jpg" />
+image: menschendenken.jpg
 ---
-
-### Mitfühlende Schweine und altruistische Fledermäuse - ein Einblick in die Emotionen und Gefühle von Tieren
 
 Fühlen Tiere Leid, wenn wir sie für Tierversuche benutzen, um neue Medikamente zu testen? Fühlen sie mit ihren Artgenossen, wenn sie erleben, wie diese getötet und geschlachtet werden? Sind Tiere generell in der Lage Emotionen und auch Gefühle zu haben, so wie der Mensch? Lange hat die Wissenschaft solche Fragen ignoriert, obwohl schon *Charles Darwin* behauptet hat: "Die Tiere empfinden wie der Mensch Freude und Schmerz, Glück und Unglück".
 
