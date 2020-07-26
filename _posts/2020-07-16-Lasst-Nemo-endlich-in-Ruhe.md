@@ -6,7 +6,6 @@ categories: ss20
 tags: [Nemo, Fische]
 image: nemo.png
 ---
-# Lasst Nemo endlich in Ruhe!
 
 Veganismus ist heutzutage – zum Glück – ein weit verbreiteter Lebensstil. Vor allem in Großstädten wie Berlin gibt es vielerorts ein breites veganes Sortiment, ob in Supermärkten oder Restaurants. Über die grausamen Zustände in Mastbetrieben, Krankheiten innerhalb der Schlachthöfe und die generelle Frage nach moralischer Vertretbarkeit beim Konsum tierischer Produkte wird in den Medien, vor allem in den letzten Jahren, oft berichtet. Kommt es in Konversationen mit Bekannten oder auch Fremden zum Thema Veganismus, sind Sätze wie: 
 - „Ja, aber das Fleisch, dass ich/wir zuhause essen, ist Bio...“
