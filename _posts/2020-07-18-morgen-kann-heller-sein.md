@@ -6,8 +6,6 @@ categories: ss20
 tags: [aktivismus, Future, künstliches Fleisch]
 ---
 
-### morgen kann heller sein
-
 "Haben sie diese Frau wirklich gebrannt weil sie gedacht haben dass sie eine Hexa ist ? Was haben sie da in der Vergangenheit gedacht ?". Dieser Gedanke kommt mir jedes Mal vor, wenn ich über das Mittelalter lese. primitiv, barbarian, nicht ausgebildet, adjektiven fehlen nicht. Die Sklavenbesitzer des 18ten Jahrhundert dachten das wahrscheinlich auch. 150 Jahre später dachten die Menschen, die Frauen demütigten, dass die Sklavenbesitzer barbarian waren. Jetzt denken wir dasselbe über die gegner der Frauenbewegung.
 
 Es ist nicht besonders schwer zu erraten, was die zukünftige Generation an uns denken würde, an die Schanden die wir heute machen. Sachen, die heute selbstverständlich sind, werden als Schande in der zukunft bezeichnet. Sklaverei war selbstverständlich. Fragt mal George Washington, der für seine Freiheit gekämpft hat, damit die Britian nicht "make us tame & abject Slaves, as the Blacks we rule over with such arbitrary Sway .” (Brief von Washington zu George William Fairfax, 1774). Er war nicht hypocrite, der um seine Freiheit kämpft während er Sklaven besitzt. Er glaubte er weiß ganz genau was Sklaverei war : ein Naturgesetz. Es gibt Herrscher, es gibt Sklaven, man muss alles tun um Herrscher zu bleiben. selbstverständlich.

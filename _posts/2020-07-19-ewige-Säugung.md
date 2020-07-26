@@ -7,8 +7,6 @@ tags: [ewige, Säugung, Kuh, Milch]
 image: muttermilch.jpg 
 ---
 
-### „Der ewige Säugling Mensch“
-
 Der Mensch ist die einzige Spezies auf der Erde, der die Muttermilch einer anderen Spezies zu sich nimmt. Viele verstehen die Milch, insbesondere die Kuhmilch, als Grundnahrungsmittel, welches selbstverständlich alltäglich zu jederzeit und überall auf der Welt dem Menschen zur Verfügung steht. Und tatsächlich ist die Kuhmilch als Grundnahrungsmittel festgeschrieben, wodurch Konsumenten anstelle der 19% Mehrwertsteuer 7% zahlen. Diese Ansichtsweise führt allerdings zu einem artfremden und brutalen Umgang mit den Kühen, um die hohe Nachfrage zu decken.
 Der Verbrauch des Menschen von Kuhmilch ist enorm. In Deutschland gab es im Jahr 2019 bspw. etwa 4,1 Mio. Milchkühe, die 33,1 Mio. Tonnen Milch pro Jahr gaben. Abgesehen von der Vielfalt an Milchprodukten als Getränk oder Müslibegleiter, ist die Palette an Milchprodukten riesig. Sie erstreckt sich u.a. über Joghurt, Quark, Butter, Käse und Sahne bis hin zum Inhaltsstoff für diverse, verarbeitete Produkte wie Backwaren, Saucen, Süßigkeiten und unzählige weitere Fertigprodukte.
 Solch eine Vielfalt erfordert eine hohe Produktionskapazität und zwar weltweit. Diese Mengen werden vor allem in Massentierhaltungsbetrieben produziert.

@@ -6,7 +6,6 @@ categories: ss20
 tags: [Stiftung Naturschutz]
 image: Abb-1-Ausschnitt-Entdeckerheft-1.png
 ---
-**Die Stiftung Naturschutz Berlin - Das Bootcamp für Berliner AAD-Begeisterte?**
 
 Ich möchte mit meinem heutigen Beitrag gerne an den Post von Vera Groesmann am 3. Juli 2020 anknüpfen. Die vorgestellte methodische Arbeit des „Animal Aided Design“ lenkt die Aufmerksamkeit der Stadtbewohner wieder auf den Schutz von Wildtieren in der Stadt. Doch dort gibt es meist schon das erste Problem – Stadtmenschen haben oft gar keinen Bezug mehr zum „wilden“ und der „Natur“ bzw. nimmt der gesenkte Blick aufs Smartphone die Tiere im unmittelbaren Umfeld gar nicht mehr wahr. Und das wirkt sich durchaus nachteilig auf deren Schutz aus, da man nur Tiere schützen kann, deren Vorkommen auch bekannt sind. 
 
