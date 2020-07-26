@@ -4,7 +4,7 @@ title: "Meine erste vegane Woche - mein Einstieg in die pflanzliche Ernährung"
 author: " Marla Marie Rose Amadi"
 categories: ss20
 tags: [erste Woche, vegan, Rezept]
-image: ersteWo1.jpg
+image: ersteWo1.JPG
 ---
 
 In diesem Beitrag möchte ich meinen Einstieg in die vegane Ernährung mit euch
