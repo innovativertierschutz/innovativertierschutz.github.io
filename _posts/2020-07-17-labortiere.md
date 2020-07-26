@@ -6,7 +6,6 @@ categories: ss20
 tags: [Labortiere]
 image: labor1.png 
 ---
-## Labortiere in Deutschland
 
 Im Jahr 2018 mussten 2,8 Millionen Tiere bei Tierversuchen in Deutschland leiden. Zum Vergleich:
 München hat 1,47 Millionen Einwohner, also werden jährlich fast doppelt so viele Tiere in
