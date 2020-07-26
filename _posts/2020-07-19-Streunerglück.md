@@ -55,7 +55,9 @@ Wir vermitteln nur ganz selten innerhalb Bosnien und Herzegowinas. Das sind einz
 
 Wir mussten einen geplanten Transport mit 20 Hunden kurzfristig absagen und um 1,5 Monate verschieben. Dadurch war das Streunerdorf komplett voll und weitere Tiere, die eigentlich schon geplant waren als nächstes einzuziehen, mussten auf der Straße bleiben. Immer mit dem Risiko verletzt oder getötet zu werden. Unsere Sachspenden konnten nicht mehr ins Land gebracht werden, so dass wir kurzfristig Futter vor Ort kaufen mussten, was viel Geld gekostet hat und nur dank unserer tollen SpenderInnen möglich war. Plötzlich wollte alle Welt einen Hund - oftmals ohne die Zeit nach Corona bedacht zu haben. Das erforderte sehr viel Bedacht und Aufmerksamkeit, diese Leute herauszufiltern, damit keiner unserer Schützlinge darunter leiden muss. In Bosnien und Herzegowina herrschten strikte Ausgangssperren, das hat die Arbeit vor Ort erschwert. Zusätzlich können wir VermittlerInnen nicht runterfahren und die neuen Hunde persönlich kennenlernen.
 
-<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Streunerglück_Nord_09-05-2020-7.jpg" /><img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Streunerglück_Nord_09-05-2020-127.jpg" /><img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Streunerglück_Nord_09-05-2020-104.jpg" />
+<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Streunerglück_Nord_09-05-2020-7.jpg" />
+<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Streunerglück_Nord_09-05-2020-127.jpg" />
+<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Streunerglück_Nord_09-05-2020-104.jpg" />
 
 Fotos: Philipp Sommer Fotografie
 Transport von 38 Hunden und zwei Katzen mit zwei Transportern am 09.05.2020- erster Transport während der Corona Pandemie

@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: post_only_banner
 title: "Whale Snot"
 author: "Kevin Nakpan"
 categories: ss20
 tags: [drones, whales, snot]
-image: whale.jpeg
+image: whale.jpg
 ---
 
 # **Whale Snot Drone!**
