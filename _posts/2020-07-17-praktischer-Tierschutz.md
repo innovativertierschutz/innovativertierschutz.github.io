@@ -7,7 +7,6 @@ tags: [Tierschutz, Tierleid, Tipps, Hilfe]
 image: Animallib.gif
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Animallib.gif">
 
 >„Ich würde ja gerne tierschützerisch aktiv werden, aber ich weiß nicht wie.“
 
