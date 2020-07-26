@@ -1,17 +1,10 @@
 ---
-
 layout: post
-
 title: "Tipps für die Umstellung auf eine vegane Ernährung"
-
 author: "Anna Lena Cyperski"
-
 categories: ss20
-
 tags: [vegan, Ernährung]
-
 image: govegan.jpg
-
 ---
 
 Immer mehr Menschen entscheiden sich für eine vegane Ernährung. Geleitet ist diese Entscheidung oft von dem Wunsch nicht mehr zum Leid der Tiere beizutragen, das Klima zu schützen oder etwas für die eigene Gesundheit zu tun. Der Umstieg auf eine vegane Ernährung kann aber auch Herausforderungen mit sich bringen. Der folgende Blogbeitrag soll dir deshalb ein paar Tipps vermitteln, um die Umstellung auf eine pflanzenbasierte Ernährung zu erleichtern.
