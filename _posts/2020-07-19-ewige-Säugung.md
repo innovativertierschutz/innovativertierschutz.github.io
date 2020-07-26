@@ -3,7 +3,7 @@ layout: post
 title: "Der ewige Säugling Mensch"
 author: "Sophia Hartung"
 categories: ss20
-tags: [Wildtierhandel, Zuga]
+tags: [ewige, Säugung, Kuh, Milch]
 image: muttermilch.jpg 
 ---
 
