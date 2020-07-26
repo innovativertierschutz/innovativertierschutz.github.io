@@ -4,7 +4,7 @@ title: "Die Stiftung Naturschutz Berlin - Das Bootcamp für Berliner AAD-Begeist
 author: "Hans Jaenicke"
 categories: ss20
 tags: [Stiftung Naturschutz]
-image: Abb 1_Ausschnitt Entdeckerheft_1.png
+image: Abb-1-Ausschnitt-Entdeckerheft-1.png
 ---
 **Die Stiftung Naturschutz Berlin - Das Bootcamp für Berliner AAD-Begeisterte?**
 
@@ -20,7 +20,7 @@ Da unser Fokus auf dem Tierschutz liegt, möchte ich hier auf die Koordinierungs
 
 Das Bildungsangebot der Stiftung beginnt bei einfachen Publikationen, wie zum Beispiel das schön gestaltete Entdeckerheft „Wilde Tiere in der Stadt“, welches für Neugierige erste Einblicke in die versteckte Welt der tierischen Stadtbewohner illustriert und erste Impulse für eigene Beobachtungen und Entdeckungen liefert. Das Buch beinhaltet neben Illustrationen auch erste thematische Sachtexte und verweist Fortgeschrittene auf das Tierstimmenarchiv des Naturkundemuseums Berlins, welche über die Seite der SNF eine große Sammlung an Tonaufnahmen zur Verfügung stellt. Die erfassten Tiersichtungen und Beobachtungen können nicht nur im Entdeckerheft festgehalten werden, sondern zudem über bereitgestellte Forscherbögen direkt an das Berliner Institut für Zoo- und Wildtierforschung gemeldet werden. 
 
-<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Abb 1_Ausschnitt Entdeckerheft_1.png" />
+<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Abb-1-Ausschnitt-Entdeckerheft-1.png" />
 <img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Abb 2_Ausschnitt Entdeckerheft_2.png" />
 Abb. 1 & 2: Auszug auf dem Entdeckerheft „Wilde Tiere der Stadt“. Die Grundlage für jede Planung ist die Bestandsaufnahme. Nur so können Entwicklungsbereiche identifiziert und priorisiert werden. Der Citizen-Science-Ansatz des Entdeckerheftes bietet den Interessierten die Möglichkeit, sich entsprechende Forscherbögen auf der Internetseite herunterzuladen, mit denen alle Tiersichtungen Wissenschaftler*innen gemeldet werden können.
 
@@ -28,8 +28,7 @@ Wer sich zusätzlich noch freiwillig oder ehrenamtlich für den Tierschutz einse
 
 Zum Abschluss möchte ich euch noch ein erfolgreiches Projekt der Stiftung Naturschutz Berlin vorstellen, welches der im „Animal Aided Design“ beschriebenen Methodik in seiner Umsetzung sehr nahekommt. Das Projekt heißt „Berliner Spatzenretter“ und beschäftigt sich mit dem Erhalt von Nistmöglichkeiten bestehender Spatzenkolonien und anderer Gebäudebrüter in Berlin. Die urbanen Lebensräume dieser Populationen gingen in den vergangenen Jahren Zunehmens durch Gebäudesanierungen verloren. Genauer gesagt, gingen durch Dach- und Fassadensanierungsmaßnahmen, lebenswichtige Nischen und Schlupflöcher sowie Hecken und Fassadenbewuchs unwiederbringlich verloren. In diesem Projekt werden in Zusammenarbeit mit Bezirksämtern und Naturschutzbehörden die tierischen Bedürfnisse von vorhinein in die Sanierungspläne örtlicher Schulgebäude integriert. Nach der anfänglichen Bestandsaufnahme der vorkommenden Vogelarten, wird die Sanierungsarbeit durch ein umfangreiches Naturbildungsangebot für Lehrer*innen und Kinder begleitet. 
  
-<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img
-/Abb 3_Berliner Spatzenretter.jpg" />
+<img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Abb 3_Berliner Spatzenretter.jpg" />
 Abb. 3: Die „Berliner Spatzenretter“ sichern wichtigen Lebensraum für Gebäudebrüter an Berliner Schulen.
  
 <img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Abb 4_Planausschnitt AAD.png" />
