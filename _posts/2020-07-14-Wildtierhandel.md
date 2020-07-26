@@ -7,8 +7,6 @@ tags: [Wildtierhandel, Zuga]
 image: wildtierhandel.jpg 
 ---
 
-<img src="https://img.travelawaits.com/filter:centercrop/quill/b/9/3/1/e/9/b931e98016d326b8036089782e3aa3adf655b6a3.jpg?w=800&h=800" />
-
 Guten Abend liebe TierfreundInnen, 
 
 ich freue mich, dass ihr gekommen seid und euch in dieser wunderschönen, sternenklaren Nacht meine Geschichte anhören wollt. 
