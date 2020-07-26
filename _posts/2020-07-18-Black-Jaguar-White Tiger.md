@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Black Jaguar - White Tiger" - eine Stiftung, die sich für Tiere in Mexiko einsetzt "
+title: "„Black Jaguar - White Tiger“ - eine Stiftung, die sich für Tiere in Mexiko einsetzt "
 author: "Justine Renoir"
 categories: ss20
 tags: [Black Jaguar, white, tiger, Mexiko]
