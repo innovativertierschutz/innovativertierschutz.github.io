@@ -4,7 +4,7 @@ title: "Die Stiftung Naturschutz Berlin - Das Bootcamp für Berliner AAD-Begeist
 author: "Hans Jaenicke"
 categories: ss20
 tags: [Stiftung Naturschutz]
-image: Abb 1_Ausschnitt Entdeckerheft_1.jpg 
+image: Abb 1_Ausschnitt Entdeckerheft_1.png
 ---
 **Die Stiftung Naturschutz Berlin - Das Bootcamp für Berliner AAD-Begeisterte?**
 
@@ -29,7 +29,7 @@ Wer sich zusätzlich noch freiwillig oder ehrenamtlich für den Tierschutz einse
 Zum Abschluss möchte ich euch noch ein erfolgreiches Projekt der Stiftung Naturschutz Berlin vorstellen, welches der im „Animal Aided Design“ beschriebenen Methodik in seiner Umsetzung sehr nahekommt. Das Projekt heißt „Berliner Spatzenretter“ und beschäftigt sich mit dem Erhalt von Nistmöglichkeiten bestehender Spatzenkolonien und anderer Gebäudebrüter in Berlin. Die urbanen Lebensräume dieser Populationen gingen in den vergangenen Jahren Zunehmens durch Gebäudesanierungen verloren. Genauer gesagt, gingen durch Dach- und Fassadensanierungsmaßnahmen, lebenswichtige Nischen und Schlupflöcher sowie Hecken und Fassadenbewuchs unwiederbringlich verloren. In diesem Projekt werden in Zusammenarbeit mit Bezirksämtern und Naturschutzbehörden die tierischen Bedürfnisse von vorhinein in die Sanierungspläne örtlicher Schulgebäude integriert. Nach der anfänglichen Bestandsaufnahme der vorkommenden Vogelarten, wird die Sanierungsarbeit durch ein umfangreiches Naturbildungsangebot für Lehrer*innen und Kinder begleitet. 
  
 <img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img
-/Abb 3_Berliner Spatzenretter.png" />
+/Abb 3_Berliner Spatzenretter.jpg" />
 Abb. 3: Die „Berliner Spatzenretter“ sichern wichtigen Lebensraum für Gebäudebrüter an Berliner Schulen.
  
 <img src="https://raw.githubusercontent.com/innovativertierschutz/innovativertierschutz.github.io/master/assets/img/Abb 4_Planausschnitt AAD.png" />
